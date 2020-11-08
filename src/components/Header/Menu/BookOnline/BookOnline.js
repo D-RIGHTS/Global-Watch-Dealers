@@ -5,7 +5,7 @@ function BookOnline () {
     return (
         <div>
             <div className="BookOnline">
-                What do you want to sell?
+               Book Online? Let's do it
             </div>
         </div>
     )

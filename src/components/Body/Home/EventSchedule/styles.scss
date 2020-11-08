@@ -1,0 +1,58 @@
+.EventScheduleCont {
+  margin: 100px;
+}
+
+.NameAnEvent {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+
+.Calender {
+  padding-right: 20px;
+}
+
+.SchedIcons {
+  display: flex;
+  padding: 0 20px;
+}
+
+.Twe {
+display: flex;
+  justify-content: space-between;
+  padding: 30px 0;
+
+}
+
+.Zwa {
+  display: flex;
+}
+
+.Zus {
+padding: 0 20px;
+  color: brown;
+  font-size: 20px;
+}
+
+.Zu {
+  color: brown;
+  font-size: 20px;
+}
+
+.Not {
+  color: brown;
+  font-size: 20px;
+}
+
+.UpComing {
+  color: red;
+  font-size: 25px;
+  font-style: italic;
+}
+
+.Name {
+  font-size: 40px;
+  color: gold;
+  font-style: italic;
+  font-family: cursive;
+}

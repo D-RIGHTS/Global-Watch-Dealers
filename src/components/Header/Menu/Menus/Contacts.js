@@ -1,14 +1,14 @@
 import React from "react";
 import "./styles.scss";
 
-function Contacts() {
+function Menus() {
     return (
         <div>
-            <div className="Contacts">
-                For more info, CONTACT US
+            <div className="Menus">
+                Menu Selection
             </div>
         </div>
     )
 }
 
-export default Contacts;
+export default Menus;

@@ -1,22 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dafe787c-dddd-414c-a172-12d43f6af410" name="Default Changelist" comment="" />
+    <list default="true" id="dafe787c-dddd-414c-a172-12d43f6af410" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/Videos/video_2020-10-20_12-44-18.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/AP.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/AP.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Gems.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Gems.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Hublot.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/Hublot.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/PP.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/PP.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/RolexExh.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/RolexExh.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/VC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/VC.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/Welcome.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Body.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Body.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/EventSchedule/EventSchedule.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/EventSchedule/EventSchedule.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/EventSchedule/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/EventSchedule/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/Reservation/Reservation.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/Reservation/Reservation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/Reservation/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/Reservation/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/UpComingEvents/UpComingEvents.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/UpComingEvents/UpComingEvents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/UpComingEvents/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/UpComingEvents/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/WatchListPrev/WatchListPrev.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/WatchListPrev/WatchListPrev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/WatchListPrev/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/WatchListPrev/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/WorkingHours/Video/Video.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/WorkingHours/Video/Video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/WorkingHours/Video/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/WorkingHours/Video/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/WorkingHours/WorkingHours.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/WorkingHours/WorkingHours.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/WorkingHours/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/WorkingHours/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Body/Home/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Body/Home/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Blog/Blog.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Blog/Blog.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Blog/CreateNewBlog/CreateNewPost.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Blog/CreateNewBlog/CreateNewPost.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Blog/CreateNewBlog/DisplayAllPosts.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Blog/CreateNewBlog/DisplayAllPosts.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Blog/CreateNewBlog/Modify.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Blog/CreateNewBlog/Modify.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Blog/CreateNewBlog/Post.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Blog/CreateNewBlog/Post.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Blog/CreateNewBlog/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Blog/CreateNewBlog/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/BookOnline/BookOnline.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/BookOnline/BookOnline.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Forum/Forum.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Forum/Forum.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Groups/Groups.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Groups/Groups.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Members/Members.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Members/Members.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Menus/Contacts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Menus/Contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Orders/Reviews.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Orders/Reviews.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Plans/Plans.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Plans/Plans.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/Shop/Shop.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/Shop/Shop.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Header/Menu/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Menu/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1irWJN0v8hxMK9IMXCo8qcGWSRb" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\dumi-oct\src\components\Body\Home" />
+      <recent name="D:\dumi-oct\src\components\Header" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -26,11 +106,83 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602666118540</updated>
-      <workItem from="1602666120315" duration="1060000" />
+      <workItem from="1602666120315" duration="1225000" />
+      <workItem from="1602681297987" duration="23833000" />
+      <workItem from="1603040968764" duration="57207000" />
+      <workItem from="1603360335473" duration="41000" />
+      <workItem from="1603365925588" duration="30000" />
+      <workItem from="1603706927952" duration="12661000" />
+      <workItem from="1603786857787" duration="92000" />
+      <workItem from="1603787273294" duration="15000" />
+      <workItem from="1603787306311" duration="31000" />
+      <workItem from="1603787361908" duration="1055000" />
+      <workItem from="1603788595209" duration="82000" />
+      <workItem from="1603788749474" duration="230000" />
+      <workItem from="1603789214056" duration="33000" />
+      <workItem from="1603789272759" duration="31000" />
+      <workItem from="1603789327397" duration="58000" />
+      <workItem from="1603789408994" duration="18000" />
+      <workItem from="1603790201662" duration="88000" />
+      <workItem from="1603790338986" duration="123000" />
+      <workItem from="1603790506621" duration="33000" />
+      <workItem from="1603792321070" duration="263000" />
+      <workItem from="1603792693122" duration="45000" />
+      <workItem from="1603792781137" duration="41000" />
+      <workItem from="1603792864930" duration="92000" />
+      <workItem from="1603793866258" duration="35000" />
+      <workItem from="1603793902760" duration="9013000" />
+      <workItem from="1603814672768" duration="612000" />
+      <workItem from="1603873669194" duration="2637000" />
+      <workItem from="1604480833396" duration="777000" />
+      <workItem from="1604654322028" duration="83000" />
+      <workItem from="1604673492143" duration="1986000" />
+      <workItem from="1604762238325" duration="158000" />
+      <workItem from="1604870554991" duration="271000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="459" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603196791667">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="459" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1603196791667" />
+    <state x="926" y="210" key="FileChooserDialogImpl" timestamp="1604762394960">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="926" y="210" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604762394960" />
+    <state x="529" y="66" key="RollbackChangesDialog" timestamp="1602681925332">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="529" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602681925332" />
+    <state x="159" y="20" width="998" height="708" key="SettingsEditor" timestamp="1603794799219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="159" y="20" width="998" height="708" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603794799219" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1603269875931">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1603269875931" />
+    <state x="485" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1602702162403">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="485" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1602702162403" />
   </component>
 </project>

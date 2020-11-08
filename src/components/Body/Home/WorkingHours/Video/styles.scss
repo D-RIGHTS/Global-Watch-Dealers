@@ -1,0 +1,29 @@
+.Vidz {
+  display: flex;
+}
+
+
+.HomeVid {
+  margin: 0 20px;
+}
+
+.Des {
+  width: 100%;
+  max-width: 700px;
+  padding: 30px 0;
+  font-style: italic;
+}
+
+.Aud {
+  padding: 0 80px;
+
+  img {
+    height: 400px;
+  }
+}
+
+.LearnButt {
+  text-align: center;
+  font-style: italic;
+  font-size: 25px;
+}

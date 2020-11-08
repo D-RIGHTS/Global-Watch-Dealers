@@ -1,0 +1,54 @@
+//.MenuContainer {
+//  display: flex;
+//  flex-direction: column;
+//}
+
+.Logo {
+  color: whitesmoke;
+  padding:  30px;
+  font-size: 25px;
+  font-style: italic;
+  font-family: initial;
+}
+
+.MenuUl {
+  display: flex;
+  padding: 20px ;
+  list-style: none;
+  color: whitesmoke;
+}
+
+li {
+  padding: 0 10px;
+}
+
+hr {
+  margin: 0 30px;
+  width: 1210px;
+}
+
+.FontAwe {
+  display: flex;
+  align-items: center;
+}
+
+.MenuDiv {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+  max-width: 1250px;
+}
+
+.Cart {
+  padding: 0 10px;
+}
+
+.Bell {
+  padding: 0 10px;
+}
+
+.Envelope {
+  padding: 0 10px;
+}
+

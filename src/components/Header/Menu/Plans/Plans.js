@@ -4,8 +4,8 @@ import "./styles.scss";
 function Plans () {
     return (
         <div>
-            <div className="NewsFeed">
-                I want to get NewsFeeds daily
+            <div className="Plans">
+               Plans N Pricing
             </div>
         </div>
     )

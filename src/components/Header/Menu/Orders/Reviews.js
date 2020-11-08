@@ -1,14 +1,14 @@
 import React from "react";
 import "./styles.scss";
 
-function Reviews () {
+function Orders () {
     return (
         <div>
-            <div className="Reviews">
-                Look at our Reviews
+            <div className="Orders">
+                Order it
             </div>
         </div>
     )
 }
 
-export default Reviews;
+export default Orders;
